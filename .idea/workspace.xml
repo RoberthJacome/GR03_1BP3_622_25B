@@ -4,17 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="651667aa-ed35-4c2c-9406-46c2d0301166" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ec/epn/edu/git/calculator/Calculadora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ec/epn/edu/git/calculator/CalculadoraTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ec/epn/edu/git/calculator/Calculadora.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ec/epn/edu/git/calculator/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/ec/epn/edu/git/calculator/CalculadoraTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ec/epn/edu/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ec/epn/edu/git/calculator/Main.java" afterDir="false" />
+    <list default="true" id="651667aa-ed35-4c2c-9406-46c2d0301166" name="Changes" comment="Se añade clase Calculadora y sus tests con JUnit 5.">
+      <change afterPath="$PROJECT_DIR$/src/test/java/ec/epn/edu/git/calculator/CalculadoraParametersTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ec/epn/edu/git/calculator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ec/epn/edu/git/calculator/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ec/epn/edu/git/calculator/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ec/epn/edu/git/calculator/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +64,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "JUnit.CalculadoraParametersTest.executor": "Run",
     "JUnit.CalculadoraTest.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -100,7 +95,22 @@
       <recent name="ec.epn.edu.git.calculator" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.CalculadoraParametersTest">
+    <configuration name="CalculadoraParametersTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GR03_1BP3_622_25B" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ec.epn.edu.git.calculator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ec.epn.edu.git.calculator" />
+      <option name="MAIN_CLASS_NAME" value="ec.epn.edu.git.calculator.CalculadoraParametersTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CalculadoraTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="GR03_1BP3_622_25B" />
       <extension name="coverage">
@@ -118,6 +128,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CalculadoraParametersTest" />
         <item itemvalue="JUnit.CalculadoraTest" />
       </list>
     </recent_temporary>
@@ -137,12 +148,36 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1760882751492</updated>
-      <workItem from="1760882752631" duration="6185000" />
+      <workItem from="1760882752631" duration="8518000" />
     </task>
+    <task id="LOCAL-00001" summary="Se añade clase Calculadora y sus tests con JUnit 5.">
+      <option name="closed" value="true" />
+      <created>1760889360099</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1760889360099</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Se añade clase Calculadora y sus tests con JUnit 5." />
+    <option name="LAST_COMMIT_MESSAGE" value="Se añade clase Calculadora y sus tests con JUnit 5." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
