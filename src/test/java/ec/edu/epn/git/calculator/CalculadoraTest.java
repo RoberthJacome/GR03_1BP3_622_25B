@@ -1,4 +1,4 @@
-package ec.epn.edu.git.calculator;
+package ec.edu.epn.git.calculator;
 
 import static org.junit.jupiter.api.Assertions.*;
 class CalculadoraTest {

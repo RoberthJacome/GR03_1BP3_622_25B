@@ -1,4 +1,4 @@
-package ec.epn.edu.git.calculator;
+package ec.edu.epn.git.calculator;
 
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.CsvSource;

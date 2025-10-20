@@ -1,4 +1,4 @@
-package ec.epn.edu.git.calculator;
+package ec.edu.epn.git.calculator;
 
 import java.util.Scanner;
 /**

@@ -43,7 +43,7 @@
                     <archive>
                         <manifest>
                             <addClasspath>true</addClasspath>
-                            <mainClass>ec.epn.edu.git.calculator.Main</mainClass>
+                            <mainClass>ec.edu.epn.git.calculator.Main</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
