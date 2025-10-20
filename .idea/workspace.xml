@@ -4,28 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="651667aa-ed35-4c2c-9406-46c2d0301166" name="Changes" comment="Se añade clase CalculadoraParametersTest con pruebas parametrizadas con JUnit 5.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ec/edu/epn/git/calculator/CalculatorExecute.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="651667aa-ed35-4c2c-9406-46c2d0301166" name="Changes" comment="Se añade CalculatorExecute y archivo .jar">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ec/epn/edu/git/calculator/Calculadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ec/edu/epn/git/calculator/Calculadora.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ec/epn/edu/git/calculator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ec/edu/epn/git/calculator/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ec/epn/edu/git/calculator/CalculadoraParametersTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ec/edu/epn/git/calculator/CalculadoraParametersTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ec/epn/edu/git/calculator/CalculadoraTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ec/edu/epn/git/calculator/CalculadoraTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/GR03_1BP3_622_25B-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/GR03_1BP3_622_25B-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ec/epn/edu/git/calculator/Calculadora.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ec/epn/edu/git/calculator/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-ec.epn.edu.git.calculator.CalculadoraParametersTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-ec.epn.edu.git.calculator.CalculadoraTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/ec.epn.edu.git.calculator.CalculadoraParametersTest.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/ec.epn.edu.git.calculator.CalculadoraTest.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/ec/epn/edu/git/calculator/CalculadoraParametersTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/ec/epn/edu/git/calculator/CalculadoraTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ec/edu/epn/git/calculator/CalculatorExecute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ec/edu/epn/git/calculator/CalculatorExecute.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -189,7 +170,7 @@
       <updated>1760882751492</updated>
       <workItem from="1760882752631" duration="8987000" />
       <workItem from="1760896664595" duration="3446000" />
-      <workItem from="1760927887115" duration="3174000" />
+      <workItem from="1760927887115" duration="3993000" />
     </task>
     <task id="LOCAL-00001" summary="Se añade clase Calculadora y sus tests con JUnit 5.">
       <option name="closed" value="true" />
@@ -227,7 +208,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Se añade clase Calculadora y sus tests con JUnit 5." />
     <MESSAGE value="Se añade clase CalculadoraParametersTest con pruebas parametrizadas con JUnit 5." />
-    <option name="LAST_COMMIT_MESSAGE" value="Se añade clase CalculadoraParametersTest con pruebas parametrizadas con JUnit 5." />
+    <MESSAGE value="Se añade CalculatorExecute y archivo .jar" />
+    <option name="LAST_COMMIT_MESSAGE" value="Se añade CalculatorExecute y archivo .jar" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
